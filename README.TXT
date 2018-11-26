@@ -3,4 +3,4 @@ PURPOSE OF PROJECT: To create a program that loads the AirBnB London data set fr
 VERSION or DATE: 1.0
 HOW TO START THIS PROJECT: Create a new GUI()
 AUTHORS: Ziad Al-Dara, Mihnea-Andrei Radulescu, Alexander Bass, William Cohen
-USER INSTRUCTIONS: -
+USER INSTRUCTIONS: Use the BlueJ IDE to boot up the application.
